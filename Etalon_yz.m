@@ -4,7 +4,7 @@ clc
 
 %% Parameters
 plot                 = 0; 
-FSR                  = 0.0165; % Free Spectral Range 0.0165 cn-1
+FSR                  = 0.0165; % Free Spectral Range 0.0165 cm-1
 MPH                  = 0.03;
 sel                  = 0.03;
 
